@@ -1,0 +1,14 @@
+<state>
+  <timestamp value='1588966477215' />
+  <sourceSet name='default'>
+    <source name='C:\Users\Ddiegoob\Desktop\ProyectoIntegracion\codeProyect\LabIce\slice\domain.ice'>
+      <file name='C:\Users\Ddiegoob\Desktop\ProyectoIntegracion\codeProyect\LabIce\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\_Marker.java' />
+      <file name='C:\Users\Ddiegoob\Desktop\ProyectoIntegracion\codeProyect\LabIce\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\Engine.java' />
+      <file name='C:\Users\Ddiegoob\Desktop\ProyectoIntegracion\codeProyect\LabIce\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\EnginePrx.java' />
+      <file name='C:\Users\Ddiegoob\Desktop\ProyectoIntegracion\codeProyect\LabIce\server\build\generated-src\cl\ucn\disc\pdis\lab\zeroice\model\_EnginePrxI.java' />
+    </source>
+    <arg value='C:\Users\Ddiegoob\Desktop\ProyectoIntegracion\\bin\slice2java.exe' />
+    <arg value='-IC:\Users\Ddiegoob\Desktop\ProyectoIntegracion\\slice' />
+    <arg value='--debug' />
+  </sourceSet>
+</state>
